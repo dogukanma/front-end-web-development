@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alper Öngör</title>
+</head>
+<body>
+    <br><br>
+    <a name="ilkbolum"></a>
+    <a href="#sonbolum"><button>Sayfanın sonuna gitmek için tıklayınız.</button></a>
+    <h1>Hakkımda</h1>
+    <p>Merhaba! Ben Alper Öngör. New York'da yaşıyorum ve 18 yaşındayım. Aşağıda yeni öğrendiğim HTML5 elementleriyle kendim hakkında daha detaylı bilgi vermeye çalışacağım.</p>
+    <br>
+    <hr>
+    <br>
+    <h3>İlgi Alanlarım</h3>
+    <ul style="list-style: circle;">
+        <li>Film izlemek</li>
+        <li>Kitap okumak</li>
+        <li>Dil öğrenmek</li>
+        <li>Dizi izlemek</li>
+    </ul>    
+        <br>
+        <hr>
+        <br>
+    <h3 style="color: darkslateblue;" >En sevdiğim filmler</h3>
+    <ol>   
+        <li><a target="_blank" href="https://www.imdb.com/title/tt0253474/">The Pianist</a></li> 
+        <li><a target="_blank" href="https://www.imdb.com/title/tt0068646/">The Godfather </a> </li>
+        <li><a target="_blank" href="https://www.imdb.com/title/tt0137523/">Fight Club</a></li>
+        <li><a target="_blank" href="https://www.imdb.com/title/tt1375666/">Inception</a></li>
+    </ol>
+    <br>
+    <hr>
+    <br>
+    <h3 style="color: brown;" >En sevdiğim kitaplar</h3>
+    <ol>
+        <li><a target="_blank" href="https://www.goodreads.com/book/show/40961427-1984">1984 - George Orwell</a></li>
+        <li><a target="_blank" href="https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird">To kill a Mockingbird - Harper Lee</a></li>
+        <li><a target="_blank" href="https://www.goodreads.com/book/show/170448.Animal_Farm">Animal Farm - George Orwell</a></li>
+    </ol>
+    <br>
+    <hr>
+    <br>
+    <h2 style="color: darkmagenta;">En Sevdiğim Dizi: Black Mirror</h2>
+    <br>
+    <a href="https://www.netflix.com/tr/title/70264888">
+        <img border="1" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Black_Mirror_logo.svg/640px-Black_Mirror_logo.svg.png" alt="blackmirror.png">
+    </a>   
+    <br>
+    <h3>Konu</h3>
+    <p>Modern toplumun ve bu toplum içindeki bireyin problemlerini, yeni teknolojilerin getirdiklerini ve mevcut dünya düzenindeki siyaset, medya, sanat ilişkilerini yer yer hiciv ile yer yer de bilimkurgu ögelerine başvurarak yorumlamaktadır. Dizinin yapımcısı Charlie brooker dizi hakkında "her bölüm farklı oyuncu kadrosu, farklı mekan ve hatta farklı gerçeklik algısına sahip; fakat hepsi hem günümüzdeki yaşam tarzımız hem de hoyrat isek 10 dakika içerisinde yaşayabileceğimiz şeyler hakkında" demiştir.</p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h3>İletişim için</h3>
+    <a href="mailto:info@alperongor36583047103.org">Mail adresim</a>
+    <br>
+    <a href="tel:48930274924683724828193">Telefon Numaram</a>
+    <br><br><br><br><br><br>
+    <a href="#ilkbolum"><button>Sayfanın başına gitmek için tıklayınız.</button></a>
+    <br><br>
+<a name="sonbolum"></a>
+<!--Bahsi geçen Alper Öngör hayali bir karakterdir.-->
+
+</body>
+</html>
