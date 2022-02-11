@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alperon</title>
+</head>
+<body>
+    <!-- Navbar - Start -->
+    <!-- Navbar - End -->
+
+    <!-- Content - Start -->
+        <!--<section>-->
+            <!-- Articles - Start -->
+            <hr>
+            <h1>>>>Tam Kıvamında Trileçe Tarifi<<<</h1>
+            <hr>
+            <h3>Kaç kişilik: 10 - 12 kişilik     </h3>
+            <h3>Süre: 20 dk Hazırlık, 40 dk Pişirme</h3>
+            <iframe width="727" height="409" src="https://www.youtube.com/embed/A5CfGjowPuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <h2 style="color: orangered;">Malzemeler</h2>
+            <ul>
+                <li>Ana Malzemeler
+                    <ul>
+                        <li>5 adet yumurta</li>
+                        <br>
+                        <li>1 su bardağından 1 parmak eksik şeker</li>
+                        <br>
+                        <li>1,5 su bardağı un</li>
+                        <br>
+                        <li>1 paket kabartma tozu</li>
+                        <br>
+                        <li>1 paket vanilya</li>
+                    </ul>
+                </li>
+                <br>
+                <br>
+                <li>Sütlü Sosu İçin;
+                    <ul>
+                        <li>3,5 su bardağı süt</li>
+                        <br>
+                        <li>3 yemek kaşığı toz şeker</li>
+                        <br>
+                        <li>200g sıvı krema</li>
+                    </ul>
+                </li>
+                <br>
+                <br>
+                <li>Karamel Sosu İçin;
+                    <ul>
+                        <li>1 çay bardağı şeker</li>
+                        <br>
+                        <li>1 yemek kaşığı tereyağı</li>
+                        <br>
+                        <li>200g sıvı krema</li>
+                    </ul>
+                </li>
+                <br>
+                <br>
+                <li>Üzeri İçin;
+                    <ul>
+                        <li>1 paket krem şanti</li>
+                    </ul>
+                </li>
+            </ul>
+            <br>
+            <br>
+            <br>
+            <h2 style="color: orangered;"> Tam Kıvamında Trileçe Yapılışı</h2>
+            <ol>
+                <li>Kremşantili trileçe yapmak için öncelikle karıştırma kabımıza yumurta ve toz <br> şekeri alıp boza kıvamına gelene kadar çırpalım.</li>
+                <br>
+                <li>Un, kabartma tozu ve vanilyayı ekleyip spatulayla alttan üste doğru karıştırıp yağlı <br> kağıt serili fırın kabına dökelim.</li>
+                <br>
+                <li>170°lik fırında 10 dk, sonra ısıyı 150° düşürüp yaklaşık 30 dk pişirelim</li>
+                <br>
+                <li>Trileçenin sütlü sosu için uygun bir kapta süt, toz şeker ve sıvı kremayı çırpıp <br> buzdolabında bekletelim.</li>
+                <br>
+                <li>Karamelli sosu için, tavamıza şekeri alıp orta ateşte sürekli karıştırarak erimesini <br> sağlayalım.</li>
+                <br>
+                <li>Açık bir renk alınca 1 yemek kaşığı tereyağını ekleyelim ve yağın erimesini <br> sağlayalım. </li>
+                <br>
+                <li>Son olarak sıvı kremayı da ekleyip sosumuz kıvam alana kadar kısık ateşte kısa süre <br> karıştırarak pişirelim.</li>
+                <br>
+                <li>Ilımış olan kekimizi ters çevirip yağlı kağıdı çıkarıp çatalla delikler açalım.</li>
+                <br>
+                <li>Soğuk şerbetimizi kekin üzerine dökelim.</li>
+                <br>
+                <li>1 paket köpürtülmüş krem şantiden süslemek için biraz ayırıp kalanını kekin <br> üzerine yayalım. </li>
+                <br>
+                <li>Ilımış olan karamel sosumuzu krem şantinin üzerine dökelim.</li>
+                <br>
+                <li>Ayırmış olduğumuz krem şanti ile süsleyip kürdan ile şekil verelim.</li>
+                <br>
+                <li>5-6 saat dinlendirdikten sonra dilimleyerek servis edelim.</li>
+                <br>
+                <li>Muhteşem <b> karamelli trileçemizi </b> deneyeceklere şimdiden</li>
+            </ol>
+            <img src="/images/afiyet-olsun.jpg" alt="afiyet-olsun">
+            <!-- Articles - End -->
+        <!--</section>-->    
+    <!-- Content - End -->
+
+    <!-- Footer - Start -->
+    <!-- Footer - End -->
+</body>
+</html>
