@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alperon</title>
+</head>
+<body>
+    <!-- Navbar - Start -->
+    <ul>
+        <li>
+            <a href="alper3.html">Ana Sayfa</a>
+        </li>
+        <li>
+            <a href="about-us.html">Hakkımda</a>
+        </li>
+        <li>
+            <a href="contact.html">İletişim</a>
+        </li>
+    </ul>
+    <!-- Navbar - End -->
+
+    <!-- Content - Start -->
+        <!--<section>-->
+        <section>
+            <!-- Articles - Start -->
+            <article>
+                <h1>1. Başlık</h1>
+                <img src="https://picsum.photos/id/100/400/300" alt="Dağ resmi">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, nobis?</p>
+                <p>Officiis adipisci molestiae voluptatum consectetur quibusdam ea ipsum, labore nobis.</p>
+                <p>Unde inventore labore debitis tempora vero id illum harum numquam.</p>
+                <p>Eaque beatae accusantium delectus omnis tempora, illum at ipsa quia.</p>
+                <br>
+                <hr>
+                <br>
+                <h1>2. Başlık</h1>
+                <img src="https://picsum.photos/id/400/700/300" alt="">
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dignissimos, dolores nihil?</p>
+                <p>Fugiat odio nihil tempora expedita. Ipsa possimus corrupti totam rem numquam!</p>
+                <p>Voluptatum, exercitationem? Exercitationem, ducimus fugit doloremque molestias magni voluptates doloribus expedita.</p>
+                <p>Ipsa quia error amet officia, illum ratione laborum perferendis nam aspernatur!</p>
+                <br>
+                <hr>
+                <br>
+                <h1>3. Başlık</h1>
+                <img src="https://picsum.photos/id/600/700/300" alt="">
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius optio commodi nulla.</p>
+                <p>Deserunt tempore suscipit sapiente exercitationem odit, doloremque laboriosam! Consequatur, distinctio? Inventore, deserunt?</p>
+                <p>Voluptas voluptatem distinctio maiores consequatur eius molestias itaque! Harum eius nobis similique.</p>
+                <p>Earum doloribus id quisquam? Cumque temporibus commodi autem accusantium error. Laudantium, officiis.</p>
+            </article>
+            <!-- Articles - End -->
+        </section>    
+        <!--</section>-->    
+    <!-- Content - End -->
+
+    <!-- Footer - Start -->
+    <!-- Footer - End -->
+</body>
+</html>
