@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enstrümanlar | Alperon</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@1,300&display=swap" rel="stylesheet">
+    <style>
+        .titles {
+         text-align: center;   
+         font-family: 'Source Serif 4', sans-serif;
+        }
+        li {
+         list-style-position: inside;   
+         text-align: center;
+        }
+        img.imga {
+         height: 200px;
+         position: relative;
+         left: 0%;   
+        }
+        .mida{
+         position: relative;
+         left: 40%;   
+        }
+    </style>
+</head>
+<body style="background-color: #FFEDDB;">
+    <a class="mida" href="muzik-aletleri.html">Ana Sayfa</a>
+    <a class="mida" href="products.html">Ürünlerimiz</a>
+    <a class="mida" href="about-us.html">Hakkımızda</a> 
+    <a class="mida" href="contact.html">İletişim</a>
+
+    <h2 class="titles">Gitarlar</h2>
+    <ol>
+        <li>
+            Alhambra 4 OPEN PORE Klasik Gitar
+            <br>
+            <img class="imga" src="/images/guitar.png" alt="">
+        </li>
+        <br>
+        <br>
+        <br>
+        <li>
+            Merida MASTER-95 Klasik Gitar 2.
+            <br>
+            <img class="imga" src="/images/guitar2.png" alt="">
+        </li>
+    </ol>
+    <hr>
+    <h2 class="titles">Piyanolar</h2>
+    <ol>
+        <li>
+            Yamaha CFIIIS Concert Grand Konser Kuyruklu Piyano (Parlak Siyah)
+            <br>
+            <img src="/images/piano.jpg" alt="">
+        </li>
+        <br>
+        <br>
+        <br>
+        <li>
+            Yamaha B3E Silent Akustik Duvar Piyanosu (Parlak Siyah)
+            <br>
+            <img src="/images/piano2.jpg" alt="">
+        </li>
+    </ol>
+    <hr>
+    <h2 class="titles">Kemanlar</h2>
+    <ol>
+        <li>
+            Yamaha V5SA Keman (3/4)
+            <br>
+            <img class="imga" src="/images/keman.jpg" alt="">
+        </li>
+        <br>
+        <br>
+        <br>
+        <li>
+            Yamaha V5SC Keman (4/4)
+            <br>
+            <img class="imga" src="/images/keman2.jpg" alt="">
+        </li>
+    </ol>
+
+</body>
+</html>
