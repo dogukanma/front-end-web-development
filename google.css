@@ -1,0 +1,69 @@
+/* html dosyasının ismi: google.html */
+
+.first-logo {
+    position: relative;
+    left: 40%;
+    top: 120px;
+}
+#search-web {
+    width: 1003px;
+    height: 80px;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    position: relative;
+    top: 120px;
+    font-size: 20px;
+    background-color: rgb(219, 217, 217);
+}
+.both-clear {
+    clear: both;
+}
+.first-input {
+    width: 325px;
+    position: relative;
+    left: 510px;
+}
+.abs-button1 {
+    position: absolute;
+    left: 563px;
+    top: 277px;
+}
+.abs-button2 {
+    position: absolute;
+    left: 670px;
+    top: 277px;
+}
+.box {
+    background-color: blueviolet;
+    margin: 1px;
+    padding: 5px;
+    width: 323px;
+    height: 100px;
+    float: left;
+    text-align: center;
+}
+#pos-box1 {
+    position: relative;
+    left: 174px;
+    top: 10px;
+    padding-top: 10px;
+    height: 95px;
+    background-color: #AEFEFF;
+}
+#pos-box2 {
+    position: relative;
+    left: 174px;
+    top: 10px;
+    background-color: #4FBDBA;
+    font-size: 20px;
+}
+#pos-box3 {
+    position: relative;
+    left: 174px;
+    top: 10px;
+    background-color: #35858B;
+}
+
+
+
