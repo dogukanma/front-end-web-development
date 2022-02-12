@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alperon</title>
+    <style>
+        h1 {
+         text-align: center;   
+        }
+        .mida {
+         position: relative;
+         left: 39%   
+        }
+        .products {
+         list-style-position: inside;
+         text-align: center;   
+        }
+        #shopimg {
+         position: relative;
+         left:27%   
+        }
+    </style>
+</head>
+<body style="background-color: #FFEDDB;">
+    <h1>Müzik Dükkanım</h1>
+    <a class="mida" href="muzik-aletleri.html">Ana Sayfa</a>
+    <a class="mida" href="products.html">Ürünlerimiz</a>
+    <a class="mida" href="about-us.html">Hakkkımızda</a> 
+    <a class="mida" href="contact.html">İletişim</a>
+    <br>
+    <br>
+
+    <img id="shopimg" src="/images/musicshop.jpg" alt="music shop">
+    <p style="text-align: center;" >Müzik dükkanımıza hoş geldiniz! Ürünlerimize ulaşmak için <a href="products.html">buraya</a> tıklayabilirsiniz.</p>
+    <h3  style="color: firebrick; text-align: center;" >Sitemizdeki Müzik Aletleri</h3>
+    <ul>
+        <li class="products" >Gitar</li>
+        <li class="products" >Keman</li>
+        <li class="products" >Piyano</li>
+        
+</body>
+</html>
+
+
+
+
+
+
+
+
+
