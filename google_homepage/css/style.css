@@ -1,0 +1,253 @@
+  .header {
+    list-style-type: none;
+    margin: 10px;
+    overflow: hidden;
+    margin-right: 16px;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    float: right;
+    display: inline;
+  }
+  
+  #profile-pic {
+    border-radius: 100%;
+  }
+
+  .headerli a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 5px 5px;
+    text-decoration: none;
+  }
+  
+  .headerli a:hover {
+    text-decoration: underline;
+  }
+  
+  .container {
+    text-align: center;
+    margin: 75px;
+  }
+  
+  .search-area {      /*586x46*/
+    display: flex;
+    z-index: 3;
+    height: 44px;
+    background: #fff;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+    margin: 0 auto;
+    width: 638px;
+    width: auto;
+    max-width: 584px;
+  }
+  
+  .search-area:hover {
+  box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
+  }
+  
+  .search {
+    flex: 1;
+    display: flex;
+    padding: 5px 8px 0 16px;
+    padding-left: 14px;
+  }
+  
+  .search-img {
+    display: flex;
+    align-items: center;
+    padding-right: 13px;
+    margin-top: -5px;
+  }
+  
+  .search-img span {
+    color: #9aa0a6;
+    height: 20px;
+    width: 20px;
+    margin-top: 0px;
+    display: inline-block;
+    fill: currentColor;
+    line-height: 24px;
+    position: relative;
+  }
+  
+  .input-enter {
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+  }
+  
+  .input-area {
+    color: transparent;
+    white-space: pre;
+    font: 16px arial, sans-serif;
+    line-height: 34px;
+    height: 34px !important;
+    display: block;
+    width: 500px;
+  }
+  
+  .input {
+    margin: 0;
+    padding: 0;
+    color: rgba(0, 0, 0, 0.87);
+    word-wrap: break-word;
+    outline: none;
+    display: flex;
+    flex: 100%;
+    margin-top: -68px;
+    font: 16px arial, sans-serif;
+    line-height: 34px;
+    height: 34px !important;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    text-align: start;
+    appearance: textfield;
+    cursor: text;
+  }
+
+  #google-inputx {
+    border: none;
+    margin: 0;
+    padding: 0;
+    color: rgba(0,0,0,.87);
+    word-wrap: break-word;
+    outline: none;
+    display: flex;
+    flex: 100%;
+    -webkit-tap-highlight-color: transparent;
+    position: absolute;
+    top: 296px;
+    left: 440px; 
+    width: 480px;
+    height: 34px;
+    font-size: 16px;
+  }
+  
+  #voice-logo {
+    width: 34px;
+    height: 34px;
+    position: absolute;
+    top: 297px;
+    left: 925px;
+
+  }
+
+  .voice-png {
+    width: 34px;
+    height: 34px;
+  }
+
+  .googlesearch {
+    font-family: Arial;
+    color: #5f6368;
+    font-size: 14px;
+    border: 1px solid #f2f2f2;
+    height: 36px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    position: absolute;
+    left: 525px;
+    top: 350px;
+  }
+  
+  .googlesearch:hover {
+    box-shadow: 0px 0px 0px 1px rgba(95,99,104,0.3);
+  }
+
+  .feelinglucky {
+    font-family: Arial;
+    color: #5f6368;
+    font-size: 14px;
+    border: 1px solid #f2f2f2;
+    height: 36px;
+    padding: 0 16px;
+    line-height: 27px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    position: absolute;
+    top: 350px;
+    left: 670px;
+    margin: 11px 4px;
+  }
+
+  .feelinglucky:hover {
+    box-shadow: 0px 0px 0px 1px rgba(95,99,104,0.3);
+  }
+  
+  .footer {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #dfe1e5;
+    border-top: 1px solid #dadce0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-left: -8px;
+    line-height: 10px;
+  }
+  
+  .footerli {
+    float: left;
+  }
+  
+  .footerli a {
+    display: block;
+    color: #70757a;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    margin-left: 14px;
+    margin-right: -20px;
+  }
+  
+  .footerli a:hover {
+    text-decoration: underline;
+  }
+
+  ul {
+    list-style-type: none;
+  }
+
+  .clear {
+    width: 100%;
+    height: 10px;
+  }
+
+  .headerli {
+    margin: 3px;
+  }
+
+  .headerli, .picheaderli {
+    float: right;
+  }
+
+  .picheaderli {
+    margin-right: 35px;
+  }
+
+  .footer-div {
+    width: 1355px;
+    height: 40px;
+    background-color: #f2f2f2;
+    position: absolute;
+    bottom: 0px;
+    left: 4px;
+  }
+
